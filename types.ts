@@ -29,7 +29,7 @@ type userdetails ={
      fname: "Jame",
      lname:"doe",
      age:30,
-     complexion:"brown",
+     complexion: "brown",
      married: true,
      address: {
          location:"uyo",
